@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanrizdigitallp.vercel.app/sitemap.xml
